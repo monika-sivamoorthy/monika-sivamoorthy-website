@@ -1,0 +1,4 @@
+baseURL = 'https://monikasivamoorthy.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'ananke'
